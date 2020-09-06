@@ -1,0 +1,4 @@
+{
+  "accessTokenLife": 300,
+  "refreshTokenLife": 2592000
+}
